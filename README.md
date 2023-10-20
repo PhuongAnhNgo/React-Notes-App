@@ -1,5 +1,5 @@
 # React-Notes-App
-NOTIZ is a ReactJS App to create, keep notes and important things. 
+NOTIZ is an ReactJS-App for creating, keeping notes, and important things. 
 
 ## Techstach
 * Frontend: HTML, CSS, React, Javascript, Material UI, Axios.
